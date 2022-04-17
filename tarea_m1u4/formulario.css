@@ -1,0 +1,27 @@
+
+*
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: 20px;
+	font-size: 20px;
+    background-color: black;
+}
+
+
+.confondo{ 
+    background-color:#fcefed;
+    border: none;
+}
+
+.etiqueta {
+    color: white;
+}
+
+.boton {
+    color: white;
+    background-color: #2bab5b;
+}
+
+.area{
+    background-color: white;
+}
