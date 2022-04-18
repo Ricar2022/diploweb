@@ -1,0 +1,56 @@
+/*
+font-family: 'Mukta', sans-serif;
+font-family: 'PT Sans', sans-s
+*/
+*
+{
+	/*font-family: Arial, Helvetica, sans-serif;
+	font-weight: 20px;
+	font-size: 20px;*/
+    /*background-color: #faf1e6;*/
+}
+
+h1{
+    text-align: center;
+}
+
+h2{
+    font-family: 'Mukta', sans-serif;
+    font-size: 30px;
+    color: #000099;
+    text-decoration: underline;
+}
+.foto {
+    text-align: center;
+    border: auto;
+    box-shadow: 10 10 6px black;
+
+}
+
+.perfil {
+    font-family: 'PT Sans', sans-s;
+    font-size: 20px;
+    width: 800px;
+    height: 230px;
+    padding: 5px 5px 5px 5px;
+    box-sizing: border-box;
+    background-color: #ccc29b;
+    box-shadow: 10px 10px 10px black;
+    border: 1px solid white;
+    border-radius: 0 20px 20px 0;
+    column-count: 2;
+    column-rule: 1px solid black
+}
+.listas{
+    font-family: 'PT Sans', sans-s;
+    font-size: 30px;
+}
+
+ol{
+    font-family: 'PT Sans', sans-s;
+    font-size: 20px;
+
+}
+p{
+    margin: 0;
+}
